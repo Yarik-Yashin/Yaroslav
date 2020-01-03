@@ -1,0 +1,2 @@
+semen = 'molodec'
+print(semen)
