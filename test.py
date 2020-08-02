@@ -1,2 +1,0 @@
-semen = 'molodec'
-print(semen)
